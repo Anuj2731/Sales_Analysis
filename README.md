@@ -1,4 +1,7 @@
 # Superstore Sales Analysis Project
+![Screenshot (34)](https://github.com/user-attachments/assets/1593b904-c271-408a-9556-5a9fe5146312)
+
+![Screenshot (35)](https://github.com/user-attachments/assets/9434f19e-180c-4584-bf59-7e18d88adf15)
 
 # Project Objective:
 
